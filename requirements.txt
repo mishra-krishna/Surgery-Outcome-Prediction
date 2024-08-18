@@ -1,7 +1,12 @@
+pandas
+joblib
+gensim
+tensorflow
+streamlit
+scikit-learn
 
-pandas==2.0.1
-numpy==1.24.3
-joblib==1.3.2
-gensim==4.3.2
-tensorflow==2.13.1
-streamlit==1.24.0
+
+
+
+
+
