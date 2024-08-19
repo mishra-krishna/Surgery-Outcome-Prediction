@@ -2,6 +2,7 @@
 # Surgery Outcome Prediction
 
 This project is a Streamlit application for predicting surgery outcomes based on doctor's notes and patient details. It uses machine learning models to classify surgery types and predict the outcome based on various features.
+The Surgery Outcome Prediction model predicts four types of surgeries: DALK, EK, PK, and THPK and the outcome based on those surgeries.
 
 ## Features
 
